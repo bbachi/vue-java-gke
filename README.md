@@ -1,2 +1,2 @@
-# vue-java-gke
-Example Project on how to deploy Vue App with Java Backend on GCP GKE
+# vuejs-java-ecs
+Example Project on how to deploy Vue with java environment on ECS
